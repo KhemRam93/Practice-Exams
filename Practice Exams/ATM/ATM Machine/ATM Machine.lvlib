@@ -32,8 +32,8 @@
 	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Cluster - ATM Machine Data.ctl" Type="VI" URL="../Cluster - ATM Machine Data.ctl"/>
-		<Item Name="Cluster - Message Cluster.ctl" Type="VI" URL="../../../../Users/khemr/OneDrive/Desktop/Labview Training/CLD/New ATM_KR/ATM Machine/Cluster - Message Cluster.ctl"/>
 		<Item Name="Enum - ATM States.ctl" Type="VI" URL="../Enum - ATM States.ctl"/>
+		<Item Name="Cluster - Message Cluster.ctl" Type="VI" URL="../Cluster - Message Cluster.ctl"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../../Main.vi"/>
 </Library>
